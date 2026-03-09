@@ -1,0 +1,648 @@
+% !TeX encoding = UTF-8
+% !TEX root = exampleGR.tex
+%%
+%% BibLaTeX file
+%%
+%
+% article
+%
+@article{li2025see,
+  title={SEE: A Method for Predicting the Dynamics of Chromatin Conformation Based on Single-Cell Gene Expression},
+  author={Li, Minghong and Yang, Yurong and Wu, Rucheng and Gong, Haiyan and Yuan, Zan and Wang, Jixin and Long, Erping and Zhang, Xiaotong and Chen, Yang},
+  journal={Adv Sci},
+  volume={12},
+  number={8},
+  pages={2406413},
+  year={2025},
+  doi={10.1002/advs.202406413},
+  publisher={Wiley Online Library}
+}
+
+
+
+
+# APA
+@article{rao20143d,
+  title={A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping},
+  author={Rao, Suhas SP and Huntley, Miriam H and Durand, Neva C and Stamenova, Elena K and Bochkov, Ivan D and Robinson, James T and Sanborn, Adrian L and Machol, Ido and Omer, Arina D and Lander, Eric S and others},
+  journal={Cell},
+  volume={159},
+  number={7},
+  pages={1665--1680},
+  year={2014},
+  doi={10.1016/j.cell.2014.11.021},
+  publisher={Elsevier}
+}
+
+#juicer
+@article{durand2016juicer,
+  title={Juicer provides a one-click system for analyzing loop-resolution Hi-C experiments},
+  author={Durand, Neva C and Shamim, Muhammad S and Machol, Ido and Rao, Suhas SP and Huntley, Miriam H and Lander, Eric S and Aiden, Erez Lieberman},
+  journal={Cell Syst},
+  volume={3},
+  number={1},
+  pages={95--98},
+  year={2016},
+doi={10.1016/j.cels.2016.07.002},
+  publisher={Elsevier}
+}
+
+@article{dautle2025single,
+  title={Single-Cell Hi-C Technologies and Computational Data Analysis},
+  author={Dautle, Madison A and Chen, Yong},
+  journal={Adv Sci},
+  volume={12},
+  number={9},
+  pages={2412232},
+  year={2025},
+doi={10.1002/advs.202412232},
+  publisher={Wiley Online Library}
+}
+
+@article{plummer2025comprehensive,
+  title={A comprehensive benchmark of single-cell Hi-C embedding tools},
+  author={Plummer, Dylan and Lang, Xiuyuan and Zhang, Shanshan and Li, Yan and Li, Jing and Jin, Fulai},
+  journal={Nat Commun},
+  volume={16},
+  number={1},
+  pages={9119},
+  year={2025},
+doi={10.1038/s41467-025-64186-4},
+  publisher={Nature Publishing Group UK London}
+}
+
+
+
+
+# Silhouette 
+@article{rousseeuw1987silhouettes,
+  title={Silhouettes: a graphical aid to the interpretation and validation of cluster analysis},
+  author={Rousseeuw, Peter J},
+  journal={J Comput Appl Math},
+  volume={20},
+  pages={53--65},
+  year={1987},
+  publisher={Elsevier}
+}
+# APA analysis
+
+# p2LL 
+@article{cao2020accurate,
+  title={Accurate loop calling for 3D genomic data with cLoops},
+  author={Cao, Yaqiang and Chen, Zhaoxiong and Chen, Xingwei and Ai, Daosheng and Chen, Guoyu and McDermott, Joseph and Huang, Yi and Guo, Xiaoxiao and Han, Jing-Dong J},
+  journal={Bioinformatics},
+  volume={36},
+  number={3},
+  pages={666--675},
+  year={2020},
+  publisher={Oxford University Press}
+}
+# bias structure and severe data sparsity 1
+@article{yaffe2011probabilistic,
+  title={Probabilistic modeling of Hi-C contact maps eliminates systematic biases to characterize global chromosomal architecture},
+  author={Yaffe, Eitan and Tanay, Amos},
+  journal={Nat Genet},
+  volume={43},
+  number={11},
+  pages={1059--1065},
+  year={2011},
+  publisher={Nature Publishing Group US New York}
+}
+# bias structure and severe data sparsity 2
+@article{jin2013high,
+  title={A high-resolution map of the three-dimensional chromatin interactome in human cells},
+  author={Jin, Fulai and Li, Yan and Dixon, Jesse R and Selvaraj, Siddarth and Ye, Zhen and Lee, Ah Young and Yen, Chia-An and Schmitt, Anthony D and Espinoza, Celso A and Ren, Bing},
+  journal={Nature},
+  volume={503},
+  number={7475},
+  pages={290--294},
+  year={2013},
+  publisher={Nature Publishing Group UK London}
+}
+# bias structure and severe data sparsity 3
+@article{jerkovic2021understanding,
+  title={Understanding 3D genome organization by multidisciplinary methods},
+  author={Jerkovic, Ivana and Cavalli, Giacomo},
+  journal={Nat Rev Mol Cell Biol},
+  volume={22},
+  number={8},
+  pages={511--528},
+  year={2021},
+  publisher={Nature Publishing Group UK London}
+}
+# bias structure and severe data sparsity 4
+@article{forcato2017comparison,
+  title={Comparison of computational methods for Hi-C data analysis},
+  author={Forcato, Mattia and Nicoletti, Chiara and Pal, Koustav and Livi, Carmen Maria and Ferrari, Francesco and Bicciato, Silvio},
+  journal={Nat Methods},
+  volume={14},
+  number={7},
+  pages={679--685},
+  year={2017},
+  publisher={Nature Publishing Group US New York}
+}
+# bias structure and severe data sparsity 5
+@article{lu2020robust,
+  title={Robust Hi-C maps of enhancer-promoter interactions reveal the function of non-coding genome in neural development and diseases},
+  author={Lu, Leina and Liu, Xiaoxiao and Huang, Wei-Kai and Giusti-Rodr{\'\i}guez, Paola and Cui, Jian and Zhang, Shanshan and Xu, Wanying and Wen, Zhexing and Ma, Shufeng and Rosen, Jonathan D and others},
+  journal={Molecular cell},
+  volume={79},
+  number={3},
+  pages={521--534},
+  year={2020},
+  publisher={Elsevier}
+}
+
+
+# schic cluster technology
+@article{liu2018unsupervised,
+  title={Unsupervised embedding of single-cell Hi-C data},
+  author={Liu, Jie and Lin, Dejun and Yard{\i}mc{\i}, Galip G{\"u}rkan and Noble, William Stafford},
+  journal={Bioinformatics},
+  volume={34},
+  number={13},
+  pages={i96--i104},
+  year={2018},
+  publisher={Oxford University Press}
+}
+
+# TAD technology
+@article{dixon2012topological,
+  title={Topological domains in mammalian genomes identified by analysis of chromatin interactions},
+  author={Dixon, Jesse R and Selvaraj, Siddarth and Yue, Feng and Kim, Audrey and Li, Yan and Shen, Yin and Hu, Ming and Liu, Jun S and Ren, Bing},
+  journal={Nature},
+  volume={485},
+  number={7398},
+  pages={376--380},
+  year={2012},
+  publisher={Nature Publishing Group UK London}
+}
+
+# Loop technology
+
+
+@article{bonev2016organization,
+  title={Organization and function of the 3D genome},
+  author={Bonev, Boyan and Cavalli, Giacomo},
+  journal={Nat Rev Genet},
+  volume={17},
+  number={11},
+  pages={661--678},
+  year={2016},
+  publisher={Nature Publishing Group UK London}
+}
+
+
+@article{liu2023linking,
+  title={Linking genome structures to functions by simultaneous single-cell Hi-C and RNA-seq},
+  author={Liu, Zhiyuan and Chen, Yujie and Xia, Qimin and Liu, Menghan and Xu, Heming and Chi, Yi and Deng, Yujing and Xing, Dong},
+  journal={Science},
+  volume={380},
+  number={6649},
+  pages={1070--1076},
+  year={2023},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{lieberman2009comprehensive,
+  title={Comprehensive mapping of long-range interactions reveals folding principles of the human genome},
+  author={Lieberman-Aiden, Erez and Van Berkum, Nynke L and Williams, Louise and Imakaev, Maxim and Ragoczy, Tobias and Telling, Agnes and Amit, Ido and Lajoie, Bryan R and Sabo, Peter J and Dorschner, Michael O and others},
+  journal={Science},
+  volume={326},
+  number={5950},
+  pages={289--293},
+  year={2009},
+  publisher={American Association for the Advancement of Science}
+}
+
+
+
+@article{zhang2022multiscale,
+	title={Multiscale and integrative single-cell Hi-C analysis with Higashi},
+	author={Zhang, Ruochi and Zhou, Tianming and Ma, Jian},
+	journal={Nat Biotechnol},
+	volume={40},
+	number={2},
+	pages={254--261},
+	year={2022},
+	publisher={Nature Publishing Group US New York}
+}
+
+
+@article{lee2019simultaneous,
+	title={Simultaneous profiling of 3D genome structure and DNA methylation in single human cells},
+	author={Lee, Dong-Sung and Luo, Chongyuan and Zhou, Jingtian and Chandran, Sahaana and Rivkin, Angeline and Bartlett, Anna and Nery, Joseph R and Fitzpatrick, Conor and O’Connor, Carolyn and Dixon, Jesse R and others},
+	journal={Nat Methods},
+	volume={16},
+	number={10},
+	pages={999--1006},
+	year={2019},
+	publisher={Nature Publishing Group US New York}
+}
+
+
+@article{yang2023diffusion,
+	title={Diffusion models: A comprehensive survey of methods and applications},
+	author={Yang, Ling and Zhang, Zhilong and Song, Yang and Hong, Shenda and Xu, Runsheng and Zhao, Yue and Zhang, Wentao and Cui, Bin and Yang, Ming-Hsuan},
+	journal={ACM Comput Surv},
+	volume={56},
+	number={4},
+	pages={1--39},
+	year={2023},
+	publisher={ACM New York, NY, USA}
+}
+
+
+@article{OMC,
+author = {Natalia Naumova  and Maxim Imakaev  and Geoffrey Fudenberg  and Ye Zhan  and Bryan R. Lajoie  and Leonid A. Mirny  and Job Dekker },
+title = {Organization of the Mitotic Chromosome},
+journal = {Science},
+volume = {342},
+number = {6161},
+pages = {948-953},
+year = {2013}
+}
+
+@article{nagano2017cell,
+  title={Cell-cycle dynamics of chromosomal organization at single-cell resolution},
+  author={Nagano, Takashi and Lubling, Yaniv and V{\'a}rnai, Csilla and Dudley, Carmel and Leung, Wing and Baran, Yael and Mendelson Cohen, Netta and Wingett, Steven and Fraser, Peter and Tanay, Amos},
+  journal={Nature},
+  volume={547},
+  number={7661},
+  pages={61--67},
+  year={2017},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{ramani2017massively,
+  title={Massively multiplex single-cell Hi-C},
+  author={Ramani, Vijay and Deng, Xinxian and Qiu, Ruolan and Gunderson, Kevin L and Steemers, Frank J and Disteche, Christine M and Noble, William S and Duan, Zhijun and Shendure, Jay},
+  journal={Nat Methods},
+  volume={14},
+  number={3},
+  pages={263--266},
+  year={2017},
+  publisher={Nature Publishing Group US New York}
+}
+
+@article{flyamer2017single,
+  title={Single-nucleus Hi-C reveals unique chromatin reorganization at oocyte-to-zygote transition},
+  author={Flyamer, Ilya M and Gassler, Johanna and Imakaev, Maxim and Brand{\~a}o, Hugo B and Ulianov, Sergey V and Abdennur, Nezar and Razin, Sergey V and Mirny, Leonid A and Tachibana-Konwalski, Kiku{\"e}},
+  journal={Nature},
+  volume={544},
+  number={7648},
+  pages={110--114},
+  year={2017},
+  publisher={Nature Publishing Group UK London}
+}
+
+
+@article{stevens20173d,
+  title={3D structures of individual mammalian genomes studied by single-cell Hi-C},
+  author={Stevens, Tim J and Lando, David and Basu, Srinjan and Atkinson, Liam P and Cao, Yang and Lee, Steven F and Leeb, Martin and Wohlfahrt, Kai J and Boucher, Wayne and O’Shaughnessy-Kirwan, Aoife and others},
+  journal={Nature},
+  volume={544},
+  number={7648},
+  pages={59--64},
+  year={2017},
+  publisher={Nature Publishing Group UK London}
+}
+
+
+
+
+@article{xie2022hicimpute,
+  title={HiCImpute: A Bayesian hierarchical model for identifying structural zeros and enhancing single cell Hi-C data},
+  author={Xie, Qing and Han, Chenggong and Jin, Victor and Lin, Shili},
+  journal={PLoS Comput Biol},
+  volume={18},
+  number={6},
+  pages={e1010129},
+  year={2022},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+
+
+@article{tan2018three,
+  title={Three-dimensional genome structures of single diploid human cells},
+  author={Tan, Longzhi and Xing, Dong and Chang, Chi-Han and Li, Heng and Xie, X Sunney},
+  journal={Science},
+  volume={361},
+  number={6405},
+  pages={924--928},
+  year={2018},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{zhou2019robust,
+  title={Robust single-cell Hi-C clustering by convolution-and random-walk--based imputation},
+  author={Zhou, Jingtian and Ma, Jianzhu and Chen, Yusi and Cheng, Chuankai and Bao, Bokan and Peng, Jian and Sejnowski, Terrence J and Dixon, Jesse R and Ecker, Joseph R},
+  journal={PNAS},
+  volume={116},
+  number={28},
+  pages={14011--14018},
+  year={2019},
+  publisher={National Acad Sciences}
+}
+
+@article{zheng2022normalization,
+  title={Normalization and de-noising of single-cell Hi-C data with BandNorm and scVI-3D},
+  author={Zheng, Ye and Shen, Siqi and Kele{\c{s}}, S{\"u}nd{\"u}z},
+  journal={Genome Biol},
+  volume={23},
+  number={1},
+  pages={222},
+  year={2022},
+  publisher={Springer}
+}
+
+@article{galitsyna2021single,
+  title={Single-cell Hi-C data analysis: safety in numbers},
+  author={Galitsyna, Aleksandra A and Gelfand, Mikhail S},
+  journal={Brief Bioinform},
+  volume={22},
+  number={6},
+  pages={bbab316},
+  year={2021},
+  publisher={Oxford University Press}
+}
+
+@article{li20183d,
+  title={3D genome and its disorganization in diseases},
+  author={Li, Ruifeng and Liu, Yuting and Hou, Yingping and Gan, Jingbo and Wu, Pengze and Li, Cheng},
+  journal={Cell Biol Toxicol},
+  volume={34},
+  number={5},
+  pages={351--365},
+  year={2018},
+  publisher={Springer}
+}
+
+@article{niu2021review,
+  title={A review on the attention mechanism of deep learning},
+  author={Niu, Zhaoyang and Zhong, Guoqiang and Yu, Hui},
+  journal={Neurocomputing},
+  volume={452},
+  pages={48--62},
+  year={2021},
+  publisher={Elsevier}
+}
+
+% ARI
+@article{hubert1985comparing,
+  title={Comparing partitions},
+  author={Hubert, Lawrence and Arabie, Phipps},
+  journal={J Classif},
+  volume={2},
+  pages={193--218},
+  year={1985},
+  publisher={Springer}
+}
+% NMI
+@article{strehl2002cluster,
+  title={Cluster ensembles---a knowledge reuse framework for combining multiple partitions},
+  author={Strehl, Alexander and Ghosh, Joydeep},
+  journal={J Mach Learn Res},
+  volume={3},
+  number={Dec},
+  pages={583--617},
+  year={2002}
+}
+%Homo
+
+
+
+
+@article{han2021dropout,
+  title={Are dropout imputation methods for scRNA-seq effective for scHi-C data?},
+  author={Han, Chenggong and Xie, Qing and Lin, Shili},
+  journal={Brief Bioinform},
+  volume={22},
+  number={4},
+  pages={bbaa289},
+  year={2021},
+  publisher={Oxford University Press}
+}
+
+% 结构与功能
+@article{flint1997relationship,
+  title={The relationship between chromosome structure and function at a human telomeric region},
+  author={Flint, Jonathan and Thomas, Karen and Micklem, Gos and Raynham, Helen and Clark, Kevin and Doggett, Norman A and Andrew, Andrew and Higgs, Douglas R},
+  journal={Nat Genet},
+  volume={15},
+  number={3},
+  pages={252--257},
+  year={1997},
+  publisher={Nature Publishing Group US New York}
+}
+
+@article{zhan2017reciprocal,
+  title={Reciprocal insulation analysis of Hi-C data shows that TADs represent a functionally but not structurally privileged scale in the hierarchical folding of chromosomes},
+  author={Zhan, Yinxiu and Mariani, Luca and Barozzi, Iros and Schulz, Edda G and Bl{\"u}thgen, Nils and Stadler, Michael and Tiana, Guido and Giorgetti, Luca},
+  journal={Genome Res},
+  volume={27},
+  number={3},
+  pages={479--490},
+  year={2017},
+  publisher={Cold Spring Harbor Lab}
+}
+
+@article{mccord2020chromosome,
+  title={Chromosome conformation capture and beyond: toward an integrative view of chromosome structure and function},
+  author={McCord, Rachel Patton and Kaplan, Noam and Giorgetti, Luca},
+  journal={Mol Cell},
+  volume={77},
+  number={4},
+  pages={688--708},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{wolff2021robust,
+  title={Robust and efficient single-cell Hi-C clustering with approximate k-nearest neighbor graphs},
+  author={Wolff, Joachim and Backofen, Rolf and Gr{\"u}ning, Bj{\"o}rn},
+  journal={Bioinformatics},
+  volume={37},
+  number={22},
+  pages={4006--4013},
+  year={2021},
+  publisher={Oxford University Press}
+}
+
+@article{heidari2014genome,
+  title={Genome-wide map of regulatory interactions in the human genome},
+  author={Heidari, Nastaran and Phanstiel, Douglas H and He, Chao and Grubert, Fabian and Jahanbani, Fereshteh and Kasowski, Maya and Zhang, Michael Q and Snyder, Michael P},
+  journal={Genome Res},
+  volume={24},
+  number={12},
+  pages={1905--1917},
+  year={2014},
+  publisher={Cold Spring Harbor Lab}
+}
+
+
+@article{yu2021snaphic,
+  title={SnapHiC: a computational pipeline to identify chromatin loops from single-cell Hi-C data},
+  author={Yu, Miao and Abnousi, Armen and Zhang, Yanxiao and Li, Guoqiang and Lee, Lindsay and Chen, Ziyin and Fang, Rongxin and Lagler, Taylor M and Yang, Yuchen and Wen, Jia and others},
+  journal={Nat Methods},
+  volume={18},
+  number={9},
+  pages={1056--1059},
+  year={2021},
+  publisher={Nature Publishing Group US New York}
+}
+
+% 中文scHi-C综述
+@article{gong2023advances,
+	title={Advances in methods and applications of single-cell Hi-C data analysis},
+	author={Gong, Haiyan and Ma, Fuqiang and Zhang, Xiaotong},
+	journal={Chin J Biomed Eng},
+	volume={40},
+	number={5},
+	pages={1033--1039},
+	year={2023}
+}
+
+
+
+
+
+@article{tang2023general,
+  title={A general single-cell analysis framework via conditional diffusion generative models},
+  author={Tang, Wenzhuo and Liu, Renming and Wen, Hongzhi and Dai, Xinnan and Ding, Jiayuan and Li, Hang and Fan, Wenqi and Xie, Yuying and Tang, Jiliang},
+  journal={BioRxiv},
+  year={2023},
+  doi={10.1101/2023.10.13.562243},
+  url={https://doi.org/10.1101/2023.10.13.562243}
+}
+
+
+
+@article{xie2025schicsrs,
+  title={scHiCSRS: a self-representation smoothing method with Gaussian mixture model for imputing single cell Hi-C data},
+  author={Xie, Qing and Meng, Wang and Lin, Shili},
+  journal={BMC Bio},
+  volume={26},
+  number={1},
+  pages={132},
+  year={2025},
+  publisher={Springer}
+}
+
+
+
+
+
+% Transformer
+@inproceedings{vaswani2017attention,
+  title={Attention is all you need},
+  author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, {\L}ukasz and Polosukhin, Illia},
+  booktitle={Proceedings of the 31st International Conference on Neural Information Processing Systems (NeurIPS)},
+  year={2017},
+  pages={6000--6010},
+  address={Long Beach, CA, USA},
+}
+
+
+
+% DDPM
+@inproceedings{ho2020denoising,
+  title={Denoising diffusion probabilistic models},
+  author={Ho, Jonathan and Jain, Ajay and Abbeel, Pieter},
+  booktitle={Proceedings of the 34th International Conference on Neural Information Processing Systems (NeurIPS)},
+  pages={6840--6851},
+  year={2020},
+  address={Vancouver, BC, Canada},
+}
+
+
+
+% DiT to figure 
+@inproceedings{hatamizadeh2024diffit,
+  title={Diffit: Diffusion vision transformers for image generation},
+  author={Hatamizadeh, Ali and Song, Jiaming and Liu, Guilin and Kautz, Jan and Vahdat, Arash},
+  booktitle={Proceedings of the 18th European Conference on Computer Vision (ECCV)},
+  pages={37--55},
+  year={2024},
+  address={Milan, Italy},
+
+}
+
+
+@inproceedings{chen2024gentron,
+  title={Gentron: Diffusion transformers for image and video generation},
+  author={Chen, Shoufa and Xu, Mengmeng and Ren, Jiawei and Cong, Yuren and He, Sen and Xie, Yanping and Sinha, Animesh and Luo, Ping and Xiang, Tao and Perez-Rua, Juan-Manuel},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={6441--6451},
+  year={2024},
+  address={Seattle, WA, USA},
+}
+
+
+@inproceedings{chen2024pixart,
+  title={Pixart-$\sigma$: Weak-to-strong training of diffusion transformer for 4k text-to-image generation},
+  author={Chen, Junsong and Ge, Chongjian and Xie, Enze and Wu, Yue and Yao, Lewei and Ren, Xiaozhe and Wang, Zhongdao and Luo, Ping and Lu, Huchuan and Li, Zhenguo},
+  booktitle={Proceedings of the 18th European Conference on Computer Vision (ECCV)},
+  pages={74--91},
+  year={2024},
+  address={Milan, Italy},
+}
+
+
+@inproceedings{gao2023masked,
+  title={Masked diffusion transformer is a strong image synthesizer},
+  author={Gao, Shanghua and Zhou, Pan and Cheng, Ming-Ming and Yan, Shuicheng},
+  booktitle={Proceedings of the 19th IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={23164--23173},
+  year={2023},
+  address={Paris, France},
+}
+
+
+
+@inproceedings{cheng2025effective,
+  title={Effective diffusion transformer architecture for image super-resolution},
+  author={Cheng, Kun and Yu, Lei and Tu, Zhijun and He, Xiao and Chen, Liyu and Guo, Yong and Zhu, Mingrui and Wang, Nannan and Gao, Xinbo and Hu, Jie},
+  booktitle={Proceedings of the the 39th AAAI Conference on Artificial Intelligence (AAAI)},
+  pages={2455--2463},
+  year={2025},
+
+}
+
+@inproceedings{li2023self,
+  title={Self-reference image super-resolution via pre-trained diffusion large model and window adjustable transformer},
+  author={Li, Guangyuan and Xing, Wei and Zhao, Lei and Lan, Zehua and Sun, Jiakai and Zhang, Zhanjie and Zhang, Quanwei and Lin, Huaizhong and Lin, Zhijie},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia (ACM MM)},
+  pages={7981--7992},
+  year={2023},
+  address={Ottawa, ON, Canada},
+}
+
+@inproceedings{peebles2023scalable,
+  title={Scalable diffusion models with transformers},
+  author={Peebles, William and Xie, Saining},
+  booktitle={Proceedings of the 19th IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={4195--4205},
+  year={2023},
+  address={Paris, France},
+}
+
+@inproceedings{bao2023all,
+  title={All are worth words: A vit backbone for diffusion models},
+  author={Bao, Fan and Nie, Shen and Xue, Kaiwen and Cao, Yue and Li, Chongxuan and Su, Hang and Zhu, Jun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={22669--22679},
+  year={2023},
+  address={Vancouver, BC, Canada},
+}
+
+# k-means++
+@inproceedings{lattanzi2019better,
+  title={A better k-means++ algorithm via local search},
+  author={Lattanzi, Silvio and Sohler, Christian},
+  booktitle={Proceedings of the 36th International Conference on Machine Learning (ICML)},
+  pages={3662--3671},
+  year={2019},
+  address={Long Beach, CA, USA},
+}
