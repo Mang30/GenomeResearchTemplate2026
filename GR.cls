@@ -133,12 +133,15 @@
 %   FakeBold=2
 % ]{MinionPro}
 
+
+
 \setmainfont[
   Path=fonts/,
   UprightFont=MinionPro.otf,
   BoldFont=MinionPro-Bold.ttf,
   ItalicFont=MinionPro-Italic.ttf,
-  ]{MinionPro}
+  BoldItalicFont=MinionPro-BoldItalic.ttf,
+]{MinionPro}
 
 % Sans font
 \setsansfont[
